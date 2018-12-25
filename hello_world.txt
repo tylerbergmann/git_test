@@ -3,3 +3,5 @@ Testing using nano in Terminal and using Git origin.
 🌮 🌮 🌮 are the best
 
 Now I know what to change my prompt to instead of 🖕🏼
+
+Piper is bad, make Piper good-Santa (That was Zoe)
